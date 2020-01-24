@@ -18,4 +18,4 @@ const writeJSON = () => {
     accountsJSON, 'utf8');
 };
 
-module.exports = { accounts, users, writeJSON }
+module.exports = { accounts, users, writeJSON };
